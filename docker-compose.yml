@@ -1,0 +1,9 @@
+services:
+  air_turbulence:
+    build:
+      context: .  #Build from the current directory
+      dockerfile: dockerfile
+    volumes:
+      - .:/code #Mount the current directory to /app in the container
+    env_file:
+      - keys.env
