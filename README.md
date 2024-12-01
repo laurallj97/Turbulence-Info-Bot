@@ -72,38 +72,38 @@ To request wind shear data for November 24, 2024, at 10:00 AM for Europe:
 
 ![Getting Started](./images/general_wind_shear.png)
 
-**Example - 2.Telegram Bot Experience**:
+**Example - 2. Telegram Bot Experience**:
 
 Below are screenshots showing the user experience with the Telegram bot for each command:
 
 1. ChatBot Start Screen:
 
-![Getting Started](./images/IMG_0190.png)
+![Getting Started](./images/chatbot_start_screen.png)
 
 2. Start Command:
 
-![Getting Started](./images/IMG_0191.png)
+![Getting Started](./images/start_command.png)
 
 3. Turbulence Request Command:
 
-![Getting Started](./images/IMG_0192.png)
-![Getting Started](./images/IMG_0193.png)
+![Getting Started](./images/turbulence_request_command1.png)
+![Getting Started](./images/turbulence_request_command2.png)
 
 4. Wind Shear Request Command:
 
-![Getting Started](./images/IMG_0194.png)
+![Getting Started](./images/windshear_request_command.png)
 
 5. Latest Command:
 
-![Getting Started](./images/IMG_0195.png)
+![Getting Started](./images/latest_command.png)
 
 6. Help Command:
 
-![Getting Started](./images/IMG_0196.png)
+![Getting Started](./images/help_command.png)
 
 7. About Command:
 
-![Getting Started](./images/IMG_0198.png)
+![Getting Started](./images/about_command.png)
 
 ## Code Structure
 
