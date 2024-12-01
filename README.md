@@ -58,7 +58,7 @@ TurbulenceInfoBot is designed to provide users with up-to-date information on tu
 - /turbulence_request [date] [time] [continent]: Request turbulence data for a specific date, time, and continent.
 - /windshear_request [date] [time] [continent]: Request wind shear data for a specific date, time, and continent.
 
-**Example - 1**:
+**Example - 1. Turbulence and wind shear images for a specific date and time (Europe)**:
 
 To request turbulence data for November 24, 2024, at 10:00 AM for Europe:
 
@@ -66,14 +66,44 @@ To request turbulence data for November 24, 2024, at 10:00 AM for Europe:
 
 ![Getting Started](./images/turbulence_level.png)
 
-**Example - 2**:
-
 To request wind shear data for November 24, 2024, at 10:00 AM for Europe:
 
     /windshear_request 2024-11-24 10:00 Europe
 
 ![Getting Started](./images/general_wind_shear.png)
 
+**Example - 2.Telegram Bot Experience**:
+
+Below are screenshots showing the user experience with the Telegram bot for each command:
+
+1. ChatBot Start Screen:
+
+![Getting Started](./images/IMG_0190.png)
+
+2. Start Command:
+
+![Getting Started](./images/IMG_0191.png)
+
+3. Turbulence Request Command:
+
+![Getting Started](./images/IMG_0192.png)
+![Getting Started](./images/IMG_0193.png)
+
+4. Wind Shear Request Command:
+
+![Getting Started](./images/IMG_0194.png)
+
+5. Latest Command:
+
+![Getting Started](./images/IMG_0195.png)
+
+6. Help Command:
+
+![Getting Started](./images/IMG_0196.png)
+
+7. About Command:
+
+![Getting Started](./images/IMG_0198.png)
 
 ## Code Structure
 
